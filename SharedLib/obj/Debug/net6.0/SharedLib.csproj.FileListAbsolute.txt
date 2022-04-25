@@ -1,0 +1,12 @@
+D:\daprprojects\DaprWithAks\SharedLib\bin\Debug\net6.0\SharedLib.deps.json
+D:\daprprojects\DaprWithAks\SharedLib\bin\Debug\net6.0\SharedLib.dll
+D:\daprprojects\DaprWithAks\SharedLib\bin\Debug\net6.0\SharedLib.pdb
+D:\daprprojects\DaprWithAks\SharedLib\obj\Debug\net6.0\SharedLib.csproj.AssemblyReference.cache
+D:\daprprojects\DaprWithAks\SharedLib\obj\Debug\net6.0\SharedLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\daprprojects\DaprWithAks\SharedLib\obj\Debug\net6.0\SharedLib.AssemblyInfoInputs.cache
+D:\daprprojects\DaprWithAks\SharedLib\obj\Debug\net6.0\SharedLib.AssemblyInfo.cs
+D:\daprprojects\DaprWithAks\SharedLib\obj\Debug\net6.0\SharedLib.csproj.CoreCompileInputs.cache
+D:\daprprojects\DaprWithAks\SharedLib\obj\Debug\net6.0\SharedLib.dll
+D:\daprprojects\DaprWithAks\SharedLib\obj\Debug\net6.0\refint\SharedLib.dll
+D:\daprprojects\DaprWithAks\SharedLib\obj\Debug\net6.0\SharedLib.pdb
+D:\daprprojects\DaprWithAks\SharedLib\obj\Debug\net6.0\ref\SharedLib.dll

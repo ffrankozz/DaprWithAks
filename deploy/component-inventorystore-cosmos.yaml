@@ -1,0 +1,17 @@
+apiVersion: dapr.io/v1alpha1
+kind: Component
+metadata:
+  name: inventorystore
+spec:
+  type: state.azure.cosmosdb
+  version: v1
+  metadata:
+  - name: url
+    value: https://daprstatecosmos.documents.azure.com:443/
+  - name: masterKey
+    value:  B6gaOHrUreG3A7ROepCahiFL9VPIVNCb2rUlkgc0Udh2OMEUo62MaL2fjTisbFxJAgHKrGDCzvRB6UHfkAF8CA==
+  - name: database
+    value: csstatedb
+  - name: collection
+    value: inventorystate
+  
